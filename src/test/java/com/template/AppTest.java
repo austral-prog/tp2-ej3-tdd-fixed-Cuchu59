@@ -2,6 +2,7 @@ package com.template;
 
 import org.junit.jupiter.api.Test;
 
+import java.util.HashMap;
 import java.util.Map;
 
 import static com.template.App.deposit;

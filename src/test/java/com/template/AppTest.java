@@ -6,6 +6,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 import static com.template.App.deposit;
+import static com.template.App.withdraw;
+import static com.template.App.transfer;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class AppTest {
